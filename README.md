@@ -1,5 +1,5 @@
-PAINTING APP
-  Install instructions
+PAINTING APP\n
+  Install instructions\n
     To run the painting app you must have the following installed:
       -Python 3 or later
       -PyQt5 or later
